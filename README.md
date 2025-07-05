@@ -3,6 +3,6 @@
 本库存放的是本人完成后的项目，在终端运行即可查看效果。
 可运行hog.py, hog_gui.py文件。
 
-This repository contains a cirriculum project of CS61A, a computer course of Berkeley University of California, implementing through Python languange mainly, realizing a dice game. The course provides almost all codes, leaving file hog.py needing modifications.
+This repository contains a curriculum project of CS61A, a computer course of Berkeley University of California, implementing through Python languange mainly, realizing a dice game. The course provides almost all codes, leaving file hog.py needing modifications.
 This vault deposits the whole project modified by author, which can be run in terminal.
 You can execute file hog.py, hog_gui.py.
